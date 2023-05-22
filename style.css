@@ -2,6 +2,7 @@
     background-image: linear-gradient(to left bottom, red, green, blue);
     width: 200px;
     height: 200px;
+    border: 2px solid black;
 }
 
 .div2 {
@@ -9,6 +10,7 @@
     width: 200px;
     height: 200px;
     margin-top: 20px;
+    border: 2px solid black;
 }
 
 .p1 {
@@ -16,4 +18,5 @@
     width: 200px;
     height: 200px;
     margin-top: 20px;
+    border: 2px solid black;
 }
