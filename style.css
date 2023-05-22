@@ -1,3 +1,7 @@
+h1 {
+    text-align: center;
+}
+
 .div1 {
     background-image: linear-gradient(to left bottom, red, green, blue);
     width: 200px;
@@ -19,4 +23,24 @@
     height: 200px;
     margin-top: 20px;
     border: 2px solid black;
+}
+
+.div3 {
+    background-image: radial-gradient(circle at center,pink, rgb(45, 72, 193));
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.div4 {
+    background-image: repeating-radial-gradient(black, white 10px);
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    border: 2px solid black;
+}
+
+.div4:hover {
+    background-image: repeating-radial-gradient(white, black 10px);
 }
