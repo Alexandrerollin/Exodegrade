@@ -1,0 +1,19 @@
+.div1 {
+    background-image: linear-gradient(to left bottom, red, green, blue);
+    width: 200px;
+    height: 200px;
+}
+
+.div2 {
+    background-image: linear-gradient(to right bottom, purple 75%, yellow);
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.p1 {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
